@@ -2,17 +2,17 @@
 This repository contains solutions to common Data Structures and Algorithms problems in C++.
 
 My Progress Tracker (14 Patterns)
- Sliding Window
- Two Pointers
- Fast & Slow Pointers
- Merge Intervals
- Cyclic Sort
- In-place Reversal of Linked List
- Tree BFS
- DFS
- Two Heaps
- Subsets
- Modified Binary Search
- Top K Elements
- Trie
- DP
+ a. Sliding Window
+ b. Two Pointers
+ c. Fast & Slow Pointers
+ d. Merge Intervals
+ e. Cyclic Sort
+ f. In-place Reversal of Linked List
+ g. Tree BFS
+ h. DFS
+ i. Two Heaps
+ j. Subsets
+ k. Modified Binary Search
+ l.Top K Elements
+ m. Trie
+ n. DP
